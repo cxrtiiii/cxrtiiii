@@ -1,9 +1,9 @@
 ## # Hi, I'm Nathan Nyakundi.
 
 ## About Me
-- I'm currently learning [Artificial Intelligence at Mahanaim international college].
-- I'm interested in [Data analysis].
-- I'm looking to collaborate on beginner-friendly data analysis projects, especially those involving data cleaning, exploratory data analysis, SQL,Python,and data visualization].
+- I'm currently learning Artificial Intelligence at Mahanaim international college.
+- I'm interested in Data analysis.
+- I'm looking to collaborate on beginner-friendly data analysis projects, especially those involving data cleaning, exploratory data analysis, SQL,Python,and data visualization.
 
 ## Skills I'm Building
 - Git and GitHub
