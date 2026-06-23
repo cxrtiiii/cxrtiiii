@@ -7,7 +7,7 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- [Miscrosoft excel(Advanced)]
+- Miscrosoft excel(Advanced).
 - SQL
 - Python
 - Power BI
