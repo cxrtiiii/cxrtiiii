@@ -1,9 +1,9 @@
-## # Hi, I'm [Nathan Nyakundi]
+## # Hi, I'm Nathan Nyakundi.
 
 ## About Me
 - I'm currently learning [Artificial Intelligence at Mahanaim international college].
 - I'm interested in [Data analysis].
-- I'm looking to collaborate on [I'm looking to collaborate on beginner-friendly data analysis projects, especially those involving data cleaning, exploratory data analysis, SQL,Python,and data visualization].
+- I'm looking to collaborate on beginner-friendly data analysis projects, especially those involving data cleaning, exploratory data analysis, SQL,Python,and data visualization].
 
 ## Skills I'm Building
 - Git and GitHub
@@ -16,8 +16,8 @@
 - [Introduction-class](link) — Making files and folders
 
 ## How to Reach Me
-- Email: [nathannyakundi700@gmail.com]
-- LinkedIn: [your LinkedIn profile link]
+- Email: nathannyakundi700@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nathan-nyakundi-1a1217419/
 <!--Add my profile readme
 **cxrtiiii/cxrtiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
